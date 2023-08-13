@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682748931586",
+    "project_id": "enginners-platform",
+    "storage_bucket": "enginners-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682748931586:android:8ad86f35f2325a14d2c11b",
+        "android_client_info": {
+          "package_name": "com.example.engineers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682748931586-tgts9hfpv4g2e4277cqjqed4ejvap033.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-NzVcK2on64VEXecvWcyhnJZl3MrN8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682748931586-tgts9hfpv4g2e4277cqjqed4ejvap033.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
